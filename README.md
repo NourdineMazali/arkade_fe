@@ -4,7 +4,7 @@
 
 This application is powered by [Dog API](https://dog.ceo/dog-api/)
 
-To view live example, visit my [Netlify App](https://5e4bc396b262e27d6d03d411--gracious-swartz-5eba8e.netlify.com/#/)
+To view live example, visit my [Netlify App](https://gracious-swartz-5eba8e.netlify.com/#/)
 
 ## Build Setup
 
