@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="title">
-      <h1>Dogs Breed Browser</h1><h3>powered by https://dog.ceo/api/</h3>
+      <h1>Dogs Breed Browser</h1><i>-Made by <a href="https://github.com/NourdineMazali">Nourdine Mazali</a></i>
     </div>
     <div class="container">
       <input
